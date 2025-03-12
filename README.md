@@ -7,7 +7,7 @@ The project was built using **Java** and developed in **IntelliJ IDEA**, but it 
 - The **server** is implemented in Java.
 - The **client** can be either a web browser or a Java-based client application.
 
-To learn more about the project details and requirements, see the [Assignment_1](Assignment_1) file in the repository.
+To learn more about the project details and requirements, see the [Assignment_1](Assignment_1.pdf) file in the repository.
 
 ---
 
